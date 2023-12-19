@@ -99,7 +99,7 @@
                     ">
                          <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
                          <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
-                         <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
+                         <span class="w-[220px] h-[1px] bg-splitterGris mx-auto"></span>
                          <div class=" text-letraNegra text-60 font-bold mt-[28px] h-[70px]">
                               <span class="text-30 font-bold">$</span>299
                          </div>

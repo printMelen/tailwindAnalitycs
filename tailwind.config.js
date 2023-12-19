@@ -44,7 +44,7 @@ export default {
       'bordePrice': '#2A407C',
       'letraHeader': '#8794BA',
       'letraNegra': '#172755',
-      'bermuda': '#78dcca',
+      'splitterGris': '#D3D9E9',
     },
   },
   plugins: [],
