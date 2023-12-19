@@ -18,7 +18,9 @@ export default {
     },
     fontSize: {
       sm: '0.8rem',
+      sl: '16px',
       base: '18px',
+      xm: '40px',
       xl: '50px',
       '2xl': '1.563rem',
       '3xl': '1.953rem',
@@ -27,6 +29,7 @@ export default {
     },
     lineHeight: {
       'titulo': '120%',
+      '140': '140%',
       'parrafo': '150%',
     },
     fontFamily: {
@@ -41,7 +44,7 @@ export default {
       'white': '#FFF',
       'bordes': '#465B95',
       'letraHeader': '#8794BA',
-      'bubble-gum': '#ff77e9',
+      'letraNegra': '#172755',
       'bermuda': '#78dcca',
     },
   },

@@ -30,30 +30,30 @@
                </div>
                <img src="assets\images\main-screenDoble.svg" alt="">
           </section>
-          <section class="text-center">
-               <h2>Main Features</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet. Id vel in nam malesuada.</p>
+          <section class="container max-w-screen-xl text-center mx-auto">
+               <h2 class="text-letraNegra text-xm font-bold mb-[30px]">Main Features</h2>
+               <p class="text-letraHeader text-base leading-parrafo font-normal w-[1060px] mx-auto mb-[81px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet. Id vel in nam malesuada.</p>
                <div class="flex">
                     <div>
-                         <img src="assets\images\timer.svg" alt="" class="mx-auto">
-                         <h3>Monitoring 24/7</h3>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipis cing elit. Elementum nisi aliquet volutpat.</p>
+                         <img src="assets\images\timer.svg" alt="" class="mx-auto mb-[26px]">
+                         <h3 class="text-letraNegra font-bold text-sl mb-[15px]">Monitoring 24/7</h3>
+                         <p class="text-letraHeader leading-140 font-normal text-sl">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Elementum nisi aliquet volutpat.</p>
                     </div>
                     <div>
-                         <img src="assets\images\pc.svg" alt="" class="mx-auto">
-                         <h3>Widget System</h3>
-                         <p>Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar.</p>
+                         <img src="assets\images\pc.svg" alt="" class="mx-auto mb-[26px]">
+                         <h3 class="text-letraNegra font-bold text-sl mb-[15px]">Widget System</h3>
+                         <p class="text-letraHeader leading-140 font-normal text-sl">Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar.</p>
                     </div>
                     <div>
-                         <img src="assets\images\cohete.svg" alt="" class="mx-auto">
-                         <h3>Best Performance</h3>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipis cing elit. Elementum nisi aliquet volutpat.</p>
+                         <img src="assets\images\cohete.svg" alt="" class="mx-auto mb-[26px]">
+                         <h3 class="text-letraNegra font-bold text-sl mb-[15px]">Best Performance</h3>
+                         <p class="text-letraHeader leading-140 font-normal text-sl">Lorem ipsum dolor sit amet, consectetur adipis cing elit. Elementum nisi aliquet volutpat.</p>
                     </div>
                </div>
           </section>
           <section class="flex justify-between gap-[100px]">
                <div class="my-auto">
-                    <h2>Automated Reports & Widget Alerts</h2>
+                    <h2 class="">Automated Reports & Widget Alerts</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
                </div>
                <img src="assets\images\screen-01.svg" alt="" srcset="">
