@@ -579,19 +579,18 @@ video {
   margin-right: auto;
 }
 
+.my-\[120px\] {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
 }
 
-.my-\[30px\] {
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-
-.my-\[120px\] {
-  margin-top: 120px;
-  margin-bottom: 120px;
+.mb-\[10px\] {
+  margin-bottom: 10px;
 }
 
 .mb-\[15px\] {
@@ -606,8 +605,20 @@ video {
   margin-bottom: 30px;
 }
 
+.mb-\[37px\] {
+  margin-bottom: 37px;
+}
+
+.mb-\[40px\] {
+  margin-bottom: 40px;
+}
+
 .mb-\[49px\] {
   margin-bottom: 49px;
+}
+
+.mb-\[80px\] {
+  margin-bottom: 80px;
 }
 
 .mb-\[81px\] {
@@ -626,12 +637,20 @@ video {
   margin-top: 15px;
 }
 
+.mt-\[28px\] {
+  margin-top: 28px;
+}
+
 .mt-\[30px\] {
   margin-top: 30px;
 }
 
-.mb-\[80px\] {
-  margin-bottom: 80px;
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
+.block {
+  display: block;
 }
 
 .flex {
@@ -650,12 +669,28 @@ video {
   height: 440px;
 }
 
+.h-\[50px\] {
+  height: 50px;
+}
+
+.h-\[70px\] {
+  height: 70px;
+}
+
 .h-\[900px\] {
   height: 900px;
 }
 
+.h-\[1px\] {
+  height: 1px;
+}
+
 .w-\[1060px\] {
   width: 1060px;
+}
+
+.w-\[206px\] {
+  width: 206px;
 }
 
 .w-\[340px\] {
@@ -664,6 +699,14 @@ video {
 
 .w-\[550px\] {
   width: 550px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[220px\] {
+  width: 220px;
 }
 
 .max-w-screen-2xl {
@@ -727,6 +770,11 @@ video {
   border-color: rgb(70 91 149 / var(--tw-border-opacity));
 }
 
+.border-bordePrice {
+  --tw-border-opacity: 1;
+  border-color: rgb(42 64 124 / var(--tw-border-opacity));
+}
+
 .bg-back {
   --tw-bg-opacity: 1;
   background-color: rgb(238 238 246 / var(--tw-bg-opacity));
@@ -751,6 +799,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-bordePrice {
+  --tw-bg-opacity: 1;
+  background-color: rgb(42 64 124 / var(--tw-bg-opacity));
+}
+
 .bg-sectionHeader {
   background-image: url('../../images/background-top.svg');
 }
@@ -767,6 +820,11 @@ video {
 .px-\[80px\] {
   padding-left: 80px;
   padding-right: 80px;
+}
+
+.px-\[83px\] {
+  padding-left: 83px;
+  padding-right: 83px;
 }
 
 .py-\[10px\] {
@@ -788,6 +846,14 @@ video {
 
 .font-roboto {
   font-family: Roboto, sans-serif;
+}
+
+.text-30 {
+  font-size: 30px;
+}
+
+.text-60 {
+  font-size: 60px;
 }
 
 .text-base {
@@ -839,11 +905,6 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.drop-shadow-2xl {
-  --tw-drop-shadow: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
 .drop-shadow-xl {

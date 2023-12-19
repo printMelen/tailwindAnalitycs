@@ -76,41 +76,47 @@
                <h2 class="text-white text-xm font-bold mb-[30px]">Pricing Plans</h2>
                <p class="text-letraHeader leading-parrafo font-normal text-base w-[1060px] mx-auto mb-[80px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet <br> volutpat pellentesque volutpat est. </p>
                <div class="flex justify-center gap-[80px]">
-                    <div class="flex flex-col justify-center
+                    <div class="flex flex-col 
                     w-[340px] h-[440px]
                      bg-midnight 
                      rounded-[30px]
                      ">
-                         <h3>Starter</h3>
-                         <span>up to 3 users</span>
-                         <div >
-                              $29<span>per month</span>
+                         <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Starter</h3>
+                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 3 users</span>
+                         <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
+                         <div class=" text-white text-60 font-bold mt-[28px] h-[70px]">
+                              <span class="text-30 font-bold">$</span>29
                          </div>
-                         <button>Order</button>
+                         <span class="block text-letraHeader text-sl font-normal mb-[40px]">per month</span>
+                         <button class="border border-bordePrice text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
                     </div>
-                    <div class="flex flex-col justify-center
+                    <div class="flex flex-col
                     w-[340px] h-[440px]
                      bg-white 
                      rounded-[30px]
                     ">
-                         <h3>Standard</h3>
-                         <span>up to 20 users</span>
-                         <div >
-                              $99<span>per month</span>
+                         <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Standard</h3>
+                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 20 users</span>
+                         <div class="text-letraNegra mt-[28px]">
+                              <span>$</span>
+                              99
                          </div>
-                         <button class="bg-pink">Order</button>
+                         <span class=" text-letraHeader text-sl font-normal mb-[40px]">per month</span>
+                         <button class="bg-pink text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
                     </div>
-                    <div class="flex flex-col justify-center
+                    <div class="flex flex-col
                     w-[340px] h-[440px]
                      bg-midnight 
                      rounded-[30px]
                      ">
-                         <h3>Premium</h3>
-                         <span>up to 200 users</span>
-                         <div >
-                              $299<span>per month</span>
+                         <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
+                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
+                         <div class="text-white mt-[28px]">
+                              <span>$</span>
+                              299
+                              <span class="block text-letraHeader text-sl font-normal">per month</span>
                          </div>
-                         <button>Order</button>
+                         <button class="border border-bordePrice text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
                     </div>
                </div>
           </section>
