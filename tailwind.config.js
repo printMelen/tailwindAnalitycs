@@ -14,7 +14,20 @@ export default {
       backgroundImage: {
         'sectionHeader': "url('../../images/background-top.svg')",
         'sectionFooter': "url('../../images/background-bottom.svg')",
-      }
+      }      
+    },
+    fontSize: {
+      sm: '0.8rem',
+      base: '18px',
+      xl: '50px',
+      '2xl': '1.563rem',
+      '3xl': '1.953rem',
+      '4xl': '2.441rem',
+      '5xl': '3.052rem',
+    },
+    lineHeight: {
+      'titulo': '120%',
+      'parrafo': '150%',
     },
     fontFamily: {
       'roboto': ['Roboto', 'sans-serif'],

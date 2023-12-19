@@ -15,9 +15,6 @@
      <meta name="description" content="">
      <title>Analytics — Landing Page</title>
      <!-- <link rel="stylesheet" href="assets/css/main.css" type="text/css" /> -->
-     <link rel="preconnect" href="https://fonts.googleapis.com">
-     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
      <link href="assets/css/dist/output.css" rel="stylesheet">
 
 </head>
@@ -25,11 +22,11 @@
 <body class="container max-w-screen-2xl mx-auto bg-back font-roboto">
      <?php include("assets/templates/header.php"); ?>
      <main>
-          <section class="flex items-center bg-sectionHeader bg-no-repeat mt-[-99px] h-[900px]">
-               <div>
-                    <h1>Monitor your business on real-time dashboard</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. </p>
-                    <button class="bg-pink">Try for free</button>
+          <section class="container flex items-center bg-sectionHeader bg-no-repeat mt-[-99px] h-[900px] justify-end">
+               <div class="w-[550px] h-[350px]">
+                    <h1 class="text-white text-xl leading-titulo font-bold">Monitor your business on real-time dashboard</h1>
+                    <p class="text-letraHeader text-base leading-parrafo font-normal mt-[15px] mb-[49px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. </p>
+                    <button class="bg-pink text-white rounded-full px-[80px] py-[10px]">Try for free</button>
                </div>
                <img src="assets\images\main-screenDoble.svg" alt="">
           </section>
