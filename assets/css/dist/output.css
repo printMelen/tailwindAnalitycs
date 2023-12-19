@@ -584,6 +584,24 @@ video {
   margin-bottom: auto;
 }
 
+.my-\[30px\] {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.my-\[120px\] {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+.mb-\[15px\] {
+  margin-bottom: 15px;
+}
+
+.mb-\[26px\] {
+  margin-bottom: 26px;
+}
+
 .mb-\[30px\] {
   margin-bottom: 30px;
 }
@@ -608,12 +626,8 @@ video {
   margin-top: 15px;
 }
 
-.mb-\[26px\] {
-  margin-bottom: 26px;
-}
-
-.mb-\[15px\] {
-  margin-bottom: 15px;
+.mt-\[30px\] {
+  margin-top: 30px;
 }
 
 .flex {
@@ -796,16 +810,16 @@ video {
   font-weight: 400;
 }
 
+.leading-140 {
+  line-height: 140%;
+}
+
 .leading-parrafo {
   line-height: 150%;
 }
 
 .leading-titulo {
   line-height: 120%;
-}
-
-.leading-140 {
-  line-height: 140%;
 }
 
 .text-letraHeader {

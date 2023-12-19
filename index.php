@@ -51,24 +51,24 @@
                     </div>
                </div>
           </section>
-          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px] ">
+          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px] my-[120px]">
                <div class="my-auto">
                     <h2 class="text-letraNegra text-xm font-bold">Automated Reports & Widget Alerts</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
+                    <p class="text-letraHeader leading-parrafo font-normal text-base mt-[30px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
                </div>
                <img src="assets\images\screen-01.svg" alt="" srcset="">
           </section>
-          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px]">
+          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px] my-[120px]">
                <img src="assets\images\screen-02.svg" alt="" srcset="">
                <div class="my-auto">
                     <h2 class="text-letraNegra text-xm font-bold">Fully customizable to address your needs</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
+                    <p class="text-letraHeader leading-parrafo font-normal text-base mt-[30px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
                </div>
           </section>
-          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px]">
+          <section class="container max-w-screen-xl mx-auto flex justify-between gap-[100px] my-[120px]">
                <div class="my-auto">
                     <h2 class="text-letraNegra text-xm font-bold">Pre-built Dashboard Templates</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
+                    <p class="text-letraHeader leading-parrafo font-normal text-base mt-[30px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. Vitae et, tortor pulvinar risus pulvinar sit amet.</p>
                </div>
                <img src="assets\images\screen-03.svg" alt="" srcset="">
           </section>
