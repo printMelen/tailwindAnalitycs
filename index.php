@@ -97,11 +97,11 @@
                      bg-white 
                      rounded-[30px]
                     ">
-                         <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
-                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
+                         <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Standard</h3>
+                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 20 users</span>
                          <span class="w-[220px] h-[1px] bg-splitterGris mx-auto"></span>
                          <div class=" text-letraNegra text-60 font-bold mt-[28px] h-[70px]">
-                              <span class="text-30 font-bold">$</span>299
+                              <span class="text-30 font-bold">$</span>99
                          </div>
                          <span class="block text-letraHeader text-sl font-normal mb-[40px]">per month</span>
                          <button class="bg-pink text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
