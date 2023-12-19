@@ -616,6 +616,10 @@ video {
   grid-template-columns: 139px 352px minmax(234px, 1fr);
 }
 
+.grid-cols-\[185px_352px_minmax\(234px\2c _1fr\)\] {
+  grid-template-columns: 185px 352px minmax(234px, 1fr);
+}
+
 .flex-col {
   flex-direction: column;
 }

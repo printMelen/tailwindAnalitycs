@@ -1,5 +1,5 @@
 <header class="container max-w-screen-xl mx-auto bg-transparent 
-grid grid-cols-[139px_352px_minmax(234px,_1fr)] pt-[50px]
+grid grid-cols-[185px_352px_minmax(234px,_1fr)] pt-[50px]
 items-center
 text-letraHeader
 ">
