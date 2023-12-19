@@ -3,7 +3,7 @@ grid grid-cols-[139px_352px_minmax(234px,_1fr)] pt-[50px]
 items-center
 text-letraHeader
 ">
-    <img src="assets\images\logo-footer.png" alt="" class="">
+    <img src="assets\images\logoRosa.svg" alt="" class="">
     <nav class="pl-[89px]">
         <ul class="flex gap-[36px]">
             <li><a href="#">Products</a></li>
