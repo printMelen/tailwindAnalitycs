@@ -95,13 +95,13 @@
                      bg-white 
                      rounded-[30px]
                     ">
-                         <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Standard</h3>
-                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 20 users</span>
-                         <div class="text-letraNegra mt-[28px]">
-                              <span>$</span>
-                              99
+                    <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
+                         <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
+                         <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
+                         <div class=" text-letraNegra text-60 font-bold mt-[28px] h-[70px]">
+                              <span class="text-30 font-bold">$</span>299
                          </div>
-                         <span class=" text-letraHeader text-sl font-normal mb-[40px]">per month</span>
+                         <span class="block text-letraHeader text-sl font-normal mb-[40px]">per month</span>
                          <button class="bg-pink text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
                     </div>
                     <div class="flex flex-col
@@ -109,13 +109,13 @@
                      bg-midnight 
                      rounded-[30px]
                      ">
-                         <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
+                     <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
                          <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
-                         <div class="text-white mt-[28px]">
-                              <span>$</span>
-                              299
-                              <span class="block text-letraHeader text-sl font-normal">per month</span>
+                         <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
+                         <div class=" text-white text-60 font-bold mt-[28px] h-[70px]">
+                              <span class="text-30 font-bold">$</span>299
                          </div>
+                         <span class="block text-letraHeader text-sl font-normal mb-[40px]">per month</span>
                          <button class="border border-bordePrice text-white rounded-full h-[50px] w-[206px] px-[83px] py-[10px] mx-auto">Order</button>
                     </div>
                </div>
