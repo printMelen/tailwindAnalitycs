@@ -10,6 +10,10 @@ export default {
       maxWidth:{
         'screen-2xl':'1600px',
         'screen-xl':'1180px',
+      },
+      backgroundImage: {
+        'sectionHeader': "url('../../images/background-top.svg')",
+        'sectionFooter': "url('../../images/background-bottom.svg')",
       }
     },
     fontFamily: {

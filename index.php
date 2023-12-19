@@ -25,7 +25,7 @@
 <body class="container max-w-screen-2xl mx-auto bg-back font-roboto">
      <?php include("assets/templates/header.php"); ?>
      <main>
-          <section >
+          <section class="flex items-center bg-sectionHeader bg-no-repeat mt-[-99px] h-[900px]">
                <div>
                     <h1>Monitor your business on real-time dashboard</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. Sapien in etiam vitae nibh nunc mattis imperdiet sed nullam. </p>
