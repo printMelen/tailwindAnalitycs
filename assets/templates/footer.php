@@ -1,9 +1,12 @@
 <footer class="container max-w-screen-xl mx-auto bg-transparent
-grid grid-cols-[139px_352px_minmax(234px,_1fr)]
 py-[69px]
+grid grid-cols-[139px_301px_minmax(234px,_1fr)]
 items-center
 gap-[308.5px]
-text-letraHeader 
+text-letraHeader
+border-t
+border-solid
+border-letraHeader
 ">
     <img src="assets\images\logoFooter.svg" alt="">
     <ul class="flex gap-[36px] font-normal text-sm">
