@@ -5,7 +5,7 @@ text-letraHeader
 ">
     <img src="assets\images\logoRosa.svg" alt="" class="">
     <nav class="pl-[89px]">
-        <ul class="flex gap-[36px]">
+        <ul class="flex gap-[36px] font-normal text-sl">
             <li><a href="#">Products</a></li>
             <li><a href="#">Pricing</a></li>
             <li><a href="#">FAQ</a></li>

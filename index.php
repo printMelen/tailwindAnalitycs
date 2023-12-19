@@ -72,7 +72,8 @@
                </div>
                <img src="assets\images\screen-03Shadowless.svg" alt="" srcset="" class="drop-shadow-xl">
           </section>
-          <section class="text-center">
+          <!-- h-[656px] -->
+          <section class="text-center bg-sectionFooter h-[1225px]">
                <h2 class="text-white text-xm font-bold mb-[30px]">Pricing Plans</h2>
                <p class="text-letraHeader leading-parrafo font-normal text-base w-[1060px] mx-auto mb-[80px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet <br> volutpat pellentesque volutpat est. </p>
                <div class="flex justify-center gap-[80px]">
@@ -80,6 +81,7 @@
                     w-[340px] h-[440px]
                      bg-midnight 
                      rounded-[30px]
+                     bg-opacity-70
                      ">
                          <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Starter</h3>
                          <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 3 users</span>
@@ -95,7 +97,7 @@
                      bg-white 
                      rounded-[30px]
                     ">
-                    <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
+                         <h3 class="text-letraNegra text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
                          <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
                          <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
                          <div class=" text-letraNegra text-60 font-bold mt-[28px] h-[70px]">
@@ -108,8 +110,9 @@
                     w-[340px] h-[440px]
                      bg-midnight 
                      rounded-[30px]
+                     bg-opacity-70
                      ">
-                     <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
+                         <h3 class="text-white text-30 font-bold mt-[50px] mb-[10px]">Premium</h3>
                          <span class="text-letraHeader text-base leading-parrafo font-normal mb-[37px]">up to 200 users</span>
                          <span class="w-[220px] h-[1px] bg-bordePrice mx-auto"></span>
                          <div class=" text-white text-60 font-bold mt-[28px] h-[70px]">
@@ -124,4 +127,5 @@
      <?php include("assets/templates/footer.php"); ?>
      <script src="assets/js/custom.js"></script>
 </body>
+
 </html>

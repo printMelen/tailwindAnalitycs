@@ -661,6 +661,14 @@ video {
   display: grid;
 }
 
+.h-\[1225px\] {
+  height: 1225px;
+}
+
+.h-\[1px\] {
+  height: 1px;
+}
+
 .h-\[350px\] {
   height: 350px;
 }
@@ -673,16 +681,16 @@ video {
   height: 50px;
 }
 
+.h-\[656px\] {
+  height: 656px;
+}
+
 .h-\[70px\] {
   height: 70px;
 }
 
 .h-\[900px\] {
   height: 900px;
-}
-
-.h-\[1px\] {
-  height: 1px;
 }
 
 .w-\[1060px\] {
@@ -693,6 +701,10 @@ video {
   width: 206px;
 }
 
+.w-\[220px\] {
+  width: 220px;
+}
+
 .w-\[340px\] {
   width: 340px;
 }
@@ -701,20 +713,16 @@ video {
   width: 550px;
 }
 
-.w-\[\] {
-  width: ;
-}
-
-.w-\[220px\] {
-  width: 220px;
-}
-
 .max-w-screen-2xl {
   max-width: 1600px;
 }
 
 .max-w-screen-xl {
   max-width: 1180px;
+}
+
+.grid-cols-\[139px_352px_minmax\(234px\2c _1fr\)\] {
+  grid-template-columns: 139px 352px minmax(234px, 1fr);
 }
 
 .grid-cols-\[185px_352px_minmax\(234px\2c _1fr\)\] {
@@ -745,8 +753,16 @@ video {
   gap: 100px;
 }
 
+.gap-\[308\.5px\] {
+  gap: 308.5px;
+}
+
 .gap-\[36px\] {
   gap: 36px;
+}
+
+.gap-\[40px\] {
+  gap: 40px;
 }
 
 .gap-\[80px\] {
@@ -765,19 +781,24 @@ video {
   border-width: 1px;
 }
 
-.border-bordes {
-  --tw-border-opacity: 1;
-  border-color: rgb(70 91 149 / var(--tw-border-opacity));
-}
-
 .border-bordePrice {
   --tw-border-opacity: 1;
   border-color: rgb(42 64 124 / var(--tw-border-opacity));
 }
 
+.border-bordes {
+  --tw-border-opacity: 1;
+  border-color: rgb(70 91 149 / var(--tw-border-opacity));
+}
+
 .bg-back {
   --tw-bg-opacity: 1;
   background-color: rgb(238 238 246 / var(--tw-bg-opacity));
+}
+
+.bg-bordePrice {
+  --tw-bg-opacity: 1;
+  background-color: rgb(42 64 124 / var(--tw-bg-opacity));
 }
 
 .bg-midnight {
@@ -799,9 +820,12 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-bordePrice {
-  --tw-bg-opacity: 1;
-  background-color: rgb(42 64 124 / var(--tw-bg-opacity));
+.bg-opacity-70 {
+  --tw-bg-opacity: 0.7;
+}
+
+.bg-sectionFooter {
+  background-image: url('../../images/background-bottom.svg');
 }
 
 .bg-sectionHeader {
@@ -830,6 +854,11 @@ video {
 .py-\[10px\] {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.py-\[69px\] {
+  padding-top: 69px;
+  padding-bottom: 69px;
 }
 
 .pl-\[89px\] {
@@ -870,6 +899,10 @@ video {
 
 .text-xm {
   font-size: 40px;
+}
+
+.text-sm {
+  font-size: 14px;
 }
 
 .font-bold {

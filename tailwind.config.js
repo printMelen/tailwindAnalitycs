@@ -17,17 +17,13 @@ export default {
       }      
     },
     fontSize: {
-      sm: '0.8rem',
+      sm: '14px',
       sl: '16px',
       base: '18px',
       30: '30px',
       xm: '40px',
       xl: '50px',
       60: '60px',
-      '2xl': '1.563rem',
-      '3xl': '1.953rem',
-      '4xl': '2.441rem',
-      '5xl': '3.052rem',
     },
     lineHeight: {
       'titulo': '120%',
